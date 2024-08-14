@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Personal Website"
+#title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Chadi Bsila"
 description              : &description "personal description"
