@@ -1,3 +1,4 @@
+
 Hi! I am a junior at Davidson College, pursuing a Bachelor of Science degree in Mathematics and Computer Science. You can call me "Shady" or, if you want to be technical, "ché-di."
 
 My interests lie in combinatorics, optimization, and stochastic modeling. I was a participant in the REU program in Abstract and Discrete Mathematics at Auburn University, where I received an intensive introduction to combinatorics and graph theory. I also worked as a research assistant to Prof. Yan Zhuang, focusing on algebraic and combinatorial methods in permutation enumeration.
