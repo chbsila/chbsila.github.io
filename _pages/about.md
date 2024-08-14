@@ -1,3 +1,11 @@
+---
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 Hi! I am a junior at Davidson College, pursuing a Bachelor of Science degree in Mathematics and Computer Science. You can call me "Shady" or, if you want to be technical, "ché-di."
 
